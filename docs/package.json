@@ -1,0 +1,23 @@
+{
+  "name": "optimized-video",
+  "version": "0.0.1",
+  "description": "adding optimized video to documentation in vuepress.",
+  "main": "index.js",
+  "authors": {
+    "name": "teri eyenike",
+    "email": "teyenike1@gmail.com"
+  },
+  "repository": "/optimized-video",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-nprogress": "^1.9.7",
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "cloudinary-vue": "^1.2.4"
+  }
+}
