@@ -5,9 +5,9 @@
   "main": "index.js",
   "authors": {
     "name": "teri eyenike",
-    "email": "teyenike1@gmail.com"
+    "email": ""
   },
-  "repository": "/optimized-video",
+  "repository": "https://github.com/Terieyenike/vuepress-optimized-video",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
